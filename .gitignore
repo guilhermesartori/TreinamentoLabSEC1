@@ -1,3 +1,4 @@
 *.pdf
 *.crt
 *.key
+*.sha256
