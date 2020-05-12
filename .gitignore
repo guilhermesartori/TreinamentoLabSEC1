@@ -2,3 +2,4 @@
 *.crt
 *.key
 *.sha256
+*.pubkey
